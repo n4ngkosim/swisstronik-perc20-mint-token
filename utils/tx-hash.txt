@@ -1,0 +1,2 @@
+Tx hash : https://explorer-evm.testnet.swisstronik.com/tx/
+Tx hash : 
